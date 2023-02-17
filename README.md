@@ -1,1 +1,0 @@
-# Wholesale-Meat-Trading-Platform
