@@ -13,21 +13,35 @@ A wholesale meat trading platform is an online marketplace where meat producers 
 
 # User Stories
 ### As a meat trader
-__View available meat products:__ I want to be able to view available meat products, so that I can make informed purchasing decisions.
-__Search for specific products:__ I want to be able to search for specific products, so that I can easily find what I need.
-__View product details:__ I want to be able to view product details, including price, quantity, and delivery options, so that I can make informed purchasing decisions.
-__Add products to my cart:__ I want to be able to add products to my cart, so that I can easily keep track of my purchases.
-__View my cart:__ I want to be able to view my cart, including the total cost and estimated delivery date, so that I can keep track of my orders.
-__Checkout and pay for my order:__ I want to be able to checkout and pay for my order, using a secure payment system, so that I can complete my purchase.
-__View my order history:__ I want to be able to view my order history, including past orders, invoices, and shipping details, so that I can keep track of my purchases.
-__Contact the seller or platform support:__ I want to be able to contact the seller or platform support, in case I have questions or issues with my order.
+__View available meat products:
+__ I want to be able to view available meat products, so that I can make informed purchasing decisions.
+__Search for specific products:
+__ I want to be able to search for specific products, so that I can easily find what I need.
+__View product details:
+__ I want to be able to view product details, including price, quantity, and delivery options, so that I can make informed purchasing decisions.
+__Add products to my cart:
+__ I want to be able to add products to my cart, so that I can easily keep track of my purchases.
+__View my cart:
+__ I want to be able to view my cart, including the total cost and estimated delivery date, so that I can keep track of my orders.
+__Checkout and pay for my order:
+__ I want to be able to checkout and pay for my order, using a secure payment system, so that I can complete my purchase.
+__View my order history:
+__ I want to be able to view my order history, including past orders, invoices, and shipping details, so that I can keep track of my purchases.
+__Contact the seller or platform support:
+__ I want to be able to contact the seller or platform support, in case I have questions or issues with my order.
 ### As a meat producer
-__List my products on the platform:__ I want to be able to list my products on the platform, so that I can reach a wider audience of potential buyers.
-__Manage my inventory and update product information:__ I want to be able to manage my inventory and update product information, so that buyers have accurate and up-to-date information about my products.
-__Receive and process orders:__ I want to be able to receive and process orders, including tracking and managing deliveries, so that I can efficiently fulfill orders.
-__Receive payment for my products:__ I want to be able to receive payment for my products, using a secure payment system, so that I can efficiently receive payment for my sales.
-__View my sales history:__ I want to be able to view my sales history, including past orders, invoices, and shipping details, so that I can keep track of my sales and revenue.
-__Contact the buyer or platform support:__ I want to be able to contact the buyer or platform support, in case I have questions or issues with an order.
+__List my products on the platform:
+__ I want to be able to list my products on the platform, so that I can reach a wider audience of potential buyers.
+__Manage my inventory and update product information:
+__ I want to be able to manage my inventory and update product information, so that buyers have accurate and up-to-date information about my products.
+__Receive and process orders:
+__ I want to be able to receive and process orders, including tracking and managing deliveries, so that I can efficiently fulfill orders.
+__Receive payment for my products:
+__ I want to be able to receive payment for my products, using a secure payment system, so that I can efficiently receive payment for my sales.
+__View my sales history:
+__ I want to be able to view my sales history, including past orders, invoices, and shipping details, so that I can keep track of my sales and revenue.
+__Contact the buyer or platform support:
+__ I want to be able to contact the buyer or platform support, in case I have questions or issues with an order.
 
 # Examples of classes: 
 
