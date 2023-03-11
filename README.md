@@ -121,7 +121,7 @@ I want to be able to contact the buyer or platform support, in case I have quest
 - Design a user-friendly and visually appealing user interface and user experience, including the navigation and layout.
 
 ## Development
-- Develop the MVP based on requirements and design, using [Agile methodology](https://agilemanifesto.org/), including building the database, integrating payment and insurance systems, and implementing the user interface.
+- Develop the [MVP](https://www.startuplessonslearned.com/2009/08/minimum-viable-product-guide.html) based on requirements and design, using [Agile methodology](https://agilemanifesto.org/), including building the database, integrating payment and insurance systems, and implementing the user interface.
 
 ## Testing
 - Thoroughly test the MVP for correct functioning, including functional testing, performance testing, and user acceptance testing.
